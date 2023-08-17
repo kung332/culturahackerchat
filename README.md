@@ -1,0 +1,2 @@
+# culturahackerchat
+chat cultura-hacker
